@@ -1,7 +1,7 @@
 # Vishwa J | ML Engineer | Open to Opportunities
 
 📧 jvishu06@gmail.com  | 📍 Hosur,Tamilnadu, India
-🌐 [LinkedIn](https://www.linkedin.com/in/vishwa-j-622575250) | 🐙 [GitHub](https://github.com/jvishwa06)
+| 🌐 [LinkedIn](https://www.linkedin.com/in/vishwa-j-622575250) | 🐙 [GitHub](https://github.com/jvishwa06)
 
 ## Summary
 
