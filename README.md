@@ -63,3 +63,4 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 
 - TensorFlow Developer Professional Certificate
 - Certificate Generative Adversarial Networks (GANs)
+- Datascience with Python
