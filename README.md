@@ -7,20 +7,6 @@
 
 Passionate ML Engineer with a strong foundation in AI and Data Science, currently pursuing a B.Tech in Artificial Intelligence and Data Science at Kumaraguru College of Technology. Excels in developing real-time industry projects and driving impactful results using comprehensive skills in Machine Learning, Deep Learning, NLP, and Computer Vision.
 
-## Education
-
-- **B.Tech Artificial Intelligence and Data Science**
-  - Kumaraguru College of Technology | Coimbatore
-  - 12/2022 - Present
-
-- **Higher Secondary School**
-  - Seventh Day Adventist School | Hosur
-  - 06/2020 - 05/2022
-
-- **SSLC**
-  - Seventh Day Adventist School | Hosur
-  - 06/2018 - 05/2020
-
 ## Work Experience
 
 - **AI/ML Intern | iQube | Coimbatore**
@@ -64,3 +50,17 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 - TensorFlow Developer Professional Certificate
 - Certificate Generative Adversarial Networks (GANs)
 - Datascience with Python
+
+## Education
+
+- **B.Tech Artificial Intelligence and Data Science**
+  - Kumaraguru College of Technology | Coimbatore
+  - 12/2022 - Present
+
+- **Higher Secondary School**
+  - Seventh Day Adventist School | Hosur
+  - 06/2020 - 05/2022
+
+- **SSLC**
+  - Seventh Day Adventist School | Hosur
+  - 06/2018 - 05/2020
