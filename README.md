@@ -8,14 +8,16 @@
 Passionate ML Engineer with a strong foundation in AI and Data Science, currently pursuing a B.Tech in Artificial Intelligence and Data Science at Kumaraguru College of Technology. Excels in developing real-time industry projects and driving impactful results using comprehensive skills in Machine Learning, Deep Learning, NLP, Computer Vision, AI Agents, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Generative AI (GenAI).  
 
 ## Work Experience
-
-- **AI/ML Intern | iQube | Coimbatore**
+- **Full Stack Develpoer Trainee | Hyperverge | Coimbatore**
+  - 11/2022 - Present
+  - Contributing to real-time Bus Ticketing Application.
+- **AI/ML Trainee | iQube | Coimbatore**
   - 11/2022 - Present
   - Contributing to real-time industry projects, including Welvision Industry.
-- **Software Engineer Intern | Wise Work**
+- **Software Engineer Trainee | Wise Work | Bangalore**
   - 09/2024 - Present
   - Developing responsive websites using the .NET Framework and integrating AI-powered features, showcasing expertise in full-stack development and AI integration to enhance user experiences.
-- **AI Intern | IBM Skills Build**
+- **AI Virtual Intern | IBM Skills Build**
   - 06/2023 - 07/2023
   - Developed AI methodologies for a mental fitness tracker, including data analysis, model development, and validation. This work enhanced the tracker’s predictive accuracy and performance.
 
@@ -36,13 +38,13 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 - **Defective Roller Detector (Ongoing)**
   - Utilizing computer vision and AI techniques for real-time detection of defective rollers in industrial manufacturing, improving quality control and reducing downtime.
 
-- **DeepTracer (09/2024 - Present)**
+- **DeepTracer**
   - Developing an advanced multimedia deepfake detection platform using AI models, enabling accurate detection of manipulated content in images, videos, and audio.
 
-- **AI-Based Recruitment Platform (08/2024 - Present)**
+- **AI-Based Recruitment Platform**
   - Creating an AI-powered recruitment platform that automates candidate screening, enhances hiring efficiency, and reduces bias in the selection process.
 
-- **PCOS Classifier (06/2024 - Present)**
+- **PCOS Classifier**
   - Building an AI-driven classification system to assist medical professionals in diagnosing Polycystic Ovary Syndrome (PCOS) based on clinical and imaging data.
 
 ## Professional Certifications
