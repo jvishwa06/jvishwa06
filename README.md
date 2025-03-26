@@ -30,8 +30,8 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 ## Skills
 
 - Machine Learning | Deep Learning | TensorFlow | NLP | Computer Vision | Python | R
-- Generative AI | Large Language Models (LLM) | Prompt Engineering | AWS
-- MySQL | MongoDB | Apache Spark | Hadoop | Kafka | Airflow
+- Generative AI | Large Language Models (LLM) | Prompt Engineering | AWS EC2, S3
+- MySQL | MongoDB | Airflow
 
 ## Personal Projects
 
