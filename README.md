@@ -8,7 +8,7 @@
 Passionate ML Engineer with a strong foundation in AI and Data Science, currently pursuing a B.Tech in Artificial Intelligence and Data Science at Kumaraguru College of Technology. Excels in developing real-time industry projects and driving impactful results using comprehensive skills in Machine Learning, Deep Learning, NLP, Computer Vision, AI Agents, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Generative AI (GenAI).  
 
 ## Work Experience
-- **Full Stack Develpoer Trainee | Hyperverge | Coimbatore**
+- **Full Stack Developer Trainee | Hyperverge | Coimbatore**
   - 11/2022 - Present
   - Contributing to real-time Bus Ticketing Application.
 - **AI/ML Trainee | iQube | Coimbatore**
