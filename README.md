@@ -24,6 +24,7 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 ## Achievements
 
 - 🏆 All India Ranking 3, National Terrier Cyber Quest-Datathon,Territorial Army & CyberPeace
+- 🏆 Hyperverge Sustainathon, AI Track Winner
 - 🏆 All India Ranking 17, DD ROBOCON 2024, IIT Delhi & PrasarBharti
 - 🏆 Finalist, Wise-ai-thon, Wise Work Software Company
 
@@ -31,7 +32,7 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 
 - Machine Learning | Deep Learning | TensorFlow | NLP | Computer Vision | Python | R
 - Generative AI | Large Language Models (LLM) | Prompt Engineering | AWS EC2, S3
-- MySQL | MongoDB | Airflow
+- MySQL | MongoDB | Airflow | FastAPI | Langchain
 
 ## Personal Projects
 
