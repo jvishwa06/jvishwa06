@@ -84,10 +84,6 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="31" alt="jupyter logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="31" alt="kaggle logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="31" alt="anaconda logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=black&style=for-the-badge" height="31" alt="grafana logo"  />
 </div>
 
 ## Personal Projects
