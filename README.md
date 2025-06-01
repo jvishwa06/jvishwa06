@@ -1,9 +1,15 @@
 # Vishwa J | ML Engineer | Open to Opportunities
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <a href="https://www.linkedin.com/in/jvishwa06" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo" />
+  </a>
+  <a href="jvishwa.official@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/jvishu06" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="hackerrank logo" />
+  </a>
 </div>
 
 ## Summary
@@ -13,24 +19,30 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 ## Work Experience
 - **MLOPs Trainee | Hyperverge | Coimbatore**
   - 03/2025 - Present
-  - Contributing to real-time Bus Ticketing Application.
+  - Developed real-time Bus Ticketing Application.
   - Built Language Translator and RAG Application.
-- **AI/ML Trainee | iQube | Coimbatore**
+- **ML Trainee | iQube | Coimbatore**
   - 11/2022 - Present
-  - Contributing to real-time industry projects, including Welvision Industry.
+  - Leading industrial projects by applying machine learning techniques, while mentoring peers in AI & ML Domain.
+- **Graduate Innovation Trainee | Forge | Coimbatore**
+  - 01/2025 - 07/2025
+  - Developing an AI-powered voice assistant using NLP, LLMs, RAG for inventory management system.
 - **Software Engineer Trainee | Wise Work | Bangalore**
-  - 09/2024 - Present
-  - Developing responsive websites using the .NET Framework and integrating AI-powered features, showcasing expertise in full-stack development and AI integration to enhance user experiences.
+  - 09/2024 - 03/2025
+  - Developed a full-stack weather application and an LLM-based chatbot, also contributed to testing.
+- **AI Developer | KCT Team QBotix | Coimbatore**
+  - 01/2024 - 07/2024
+  - Developed computer vision solutions for autonomous navigation in the DD ROBOCON 2024 National Robotics Competition.
 - **AI Virtual Intern | IBM Skills Build**
   - 06/2023 - 07/2023
-  - Developed AI methodologies for a mental fitness tracker, including data analysis, model development, and validation. This work enhanced the tracker’s predictive accuracy and performance.
+  - Developed AI methodologies for a mental fitness tracker, including data analysis and model development.
 
 ## Achievements
-
-- 🏆 All India Ranking 3, National Terrier Cyber Quest-Datathon,Territorial Army & CyberPeace
-- 🏆 Hyperverge Sustainathon, AI Track Winner
-- 🏆 All India Ranking 17, DD ROBOCON 2024, IIT Delhi & PrasarBharti
-- 🏆 Finalist, Wise-ai-thon, Wise Work Software Company
+- 🏆 Achievers Award and SN Bose Award by Kumaraguru College of Technology
+- 🏆 All India Ranking 3, National Terrier Cyber Quest-Datathonby Territorial Army & CyberPeace
+- 🏆 AI Track Winner, Sustainathon by Hyperverge
+- 🏆 All India Ranking 17, DD ROBOCON 2024 by IIT Delhi & PrasarBharti
+- 🏆 Finalist, Wise-ai-thon by Wise Work
 
 ## Skills
 
@@ -93,12 +105,6 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 
 - **Deepfake.ai**
   - Developing an advanced multimedia deepfake detection platform using AI models, enabling accurate detection of manipulated content in images, videos, and audio.
-
-- **AI-Based Recruitment Platform**
-  - Creating an AI-powered recruitment platform that automates candidate screening, enhances hiring efficiency, and reduces bias in the selection process.
-
-- **PCOS Classifier**
-  - Building an AI-driven classification system to assist medical professionals in diagnosing Polycystic Ovary Syndrome (PCOS) based on clinical and imaging data.
 
 ## Professional Certifications
 
