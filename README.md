@@ -8,9 +8,10 @@
 Passionate ML Engineer with a strong foundation in AI and Data Science, currently pursuing a B.Tech in Artificial Intelligence and Data Science at Kumaraguru College of Technology. Excels in developing real-time industry projects and driving impactful results using comprehensive skills in Machine Learning, Deep Learning, NLP, Computer Vision, AI Agents, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Generative AI (GenAI).  
 
 ## Work Experience
-- **Full Stack Developer Trainee | Hyperverge | Coimbatore**
-  - 11/2022 - Present
+- **MLOPs Trainee | Hyperverge | Coimbatore**
+  - 03/2025 - Present
   - Contributing to real-time Bus Ticketing Application.
+  - Built Language Translator and RAG Application.
 - **AI/ML Trainee | iQube | Coimbatore**
   - 11/2022 - Present
   - Contributing to real-time industry projects, including Welvision Industry.
@@ -39,7 +40,7 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 - **Defective Roller Detector (Ongoing)**
   - Utilizing computer vision and AI techniques for real-time detection of defective rollers in industrial manufacturing, improving quality control and reducing downtime.
 
-- **DeepTracer**
+- **Deepfake.ai**
   - Developing an advanced multimedia deepfake detection platform using AI models, enabling accurate detection of manipulated content in images, videos, and audio.
 
 - **AI-Based Recruitment Platform**
@@ -51,7 +52,7 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 ## Professional Certifications
 
 - TensorFlow Developer Professional Certificate
-- Certificate Generative Adversarial Networks (GANs)
+- Generative Adversarial Networks (GANs)
 - Datascience with Python
 
 ## Education
