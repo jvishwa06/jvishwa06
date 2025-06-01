@@ -68,3 +68,9 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 - **SSLC**
   - Seventh Day Adventist School | Hosur
   - 06/2018 - 05/2020
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvishwa06/jvishwa06/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvishwa06/jvishwa06/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jvishwa06/jvishwa06/output/github-snake.svg" />
+</picture>
