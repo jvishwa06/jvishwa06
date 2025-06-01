@@ -21,7 +21,7 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
   - 03/2025 - Present
   - Developed real-time Bus Ticketing Application.
   - Built Language Translator and RAG Application.
-- **ML Trainee | iQube | Coimbatore**
+- **AI/ML Intern | iQube | Coimbatore**
   - 11/2022 - Present
   - Leading industrial projects by applying machine learning techniques, while mentoring peers in AI & ML Domain.
 - **Graduate Innovation Trainee | Forge | Coimbatore**
@@ -38,10 +38,10 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
   - Developed AI methodologies for a mental fitness tracker, including data analysis and model development.
 
 ## Achievements
-- 🏆 Achievers Award and SN Bose Award by Kumaraguru College of Technology
-- 🏆 All India Ranking 3, National Terrier Cyber Quest-Datathonby Territorial Army & CyberPeace
+- 🏆 SN Bose Award by Kumaraguru College of Technology
+- 🏆 All India Rank 3, National Terrier Cyber Quest-Datathonby Territorial Army & CyberPeace
 - 🏆 AI Track Winner, Sustainathon by Hyperverge
-- 🏆 All India Ranking 17, DD ROBOCON 2024 by IIT Delhi & PrasarBharti
+- 🏆 All India Rank 17, DD ROBOCON 2024 by IIT Delhi & PrasarBharti
 - 🏆 Finalist, Wise-ai-thon by Wise Work
 
 ## Skills
