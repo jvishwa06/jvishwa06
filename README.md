@@ -21,7 +21,7 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
   - 03/2025 - Present
   - Developed real-time Bus Ticketing Application.
   - Built Language Translator and RAG Application.
-- **AI/ML Intern | iQube | Coimbatore**
+- **AI/ML Trainee | iQube | Coimbatore**
   - 11/2022 - Present
   - Leading industrial projects by applying machine learning techniques, while mentoring peers in AI & ML Domain.
 - **Graduate Innovation Trainee | Forge | Coimbatore**
