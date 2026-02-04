@@ -107,9 +107,9 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
   - Developing an advanced multimedia deepfake detection platform using AI models, enabling accurate detection of manipulated content in images, videos, and audio.
 
 ## Professional Certifications
-
-- TensorFlow Developer Professional Certificate
-- Generative Adversarial Networks (GANs)
+- IBM AI Engineering Professional Certificate
+- TensorFlow Developer Professional Certificate by Deeplearning.ai
+- Generative Adversarial Networks by Deeplearning.ai
 - Datascience with Python
 
 ## Education
