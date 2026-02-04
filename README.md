@@ -96,6 +96,8 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="31" alt="jupyter logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="31" alt="kaggle logo"  />
+  <img width="1" />
+  <img src="https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n" height="31" alt="n8n logo" />
 </div>
 
 ## Personal Projects
