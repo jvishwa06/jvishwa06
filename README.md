@@ -38,6 +38,7 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 
 ## Achievements
 - 🏆 SN Bose Award by Kumaraguru College of Technology
+- 🏆 2 Certificates of Recognition from Kumaraguru College of Technology
 - 🏆 All India Rank 3, National Terrier Cyber Quest-Datathonby Territorial Army & CyberPeace
 - 🏆 AI Track Winner, Sustainathon by Hyperverge
 - 🏆 All India Rank 17, DD ROBOCON 2024 by IIT Delhi & PrasarBharti
