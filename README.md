@@ -29,9 +29,6 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 - **Graduate Innovation Trainee | Forge | Coimbatore**
   - 01/2025 - 07/2025
   - Developing an AI-powered voice assistant using NLP, LLMs, RAG for inventory management system.
-- **Software Engineer Trainee | Wise Work | Bangalore**
-  - 09/2024 - 03/2025
-  - Developed a full-stack weather application and an LLM-based chatbot, also contributed to testing.
 - **AI Developer | KCT Team QBotix | Coimbatore**
   - 01/2024 - 07/2024
   - Developed computer vision solutions for autonomous navigation in the DD ROBOCON 2024 National Robotics Competition.
