@@ -93,8 +93,6 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
   <img width="1" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="31" alt="vscode logo"  />
   <img width="1" />
-  <img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=black&style=for-the-badge" height="31" alt="replit logo"  />
-  <img width="1" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="31" alt="jupyter logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="31" alt="kaggle logo"  />
