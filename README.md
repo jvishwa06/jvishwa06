@@ -19,11 +19,7 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 ## Work Experience
 - **SDE Intern | Hyperverge | Coimbatore**
   - 06/2025 - present
-- **SDE Trainee | Hyperverge | Coimbatore**
-  - 03/2025 - 06/2025
-  - Developed real-time Bus Ticketing Application.
-  - Built Language Translator and RAG Application.
-- **AI/ML Trainee | iQube | Coimbatore**
+- **AI/ML Intern | iQube | Coimbatore**
   - 11/2022 - Present
   - Leading industrial projects by applying machine learning techniques, while mentoring peers in AI & ML Domain.
 - **Graduate Innovation Trainee | Forge | Coimbatore**
@@ -39,7 +35,7 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 ## Achievements
 - 🏆 SN Bose Award by Kumaraguru College of Technology
 - 🏆 2 Certificates of Recognition from Kumaraguru College of Technology
-- 🏆 All India Rank 3, National Terrier Cyber Quest-Datathonby Territorial Army & CyberPeace
+- 🏆 All India Rank 3, National Terrier Cyber Quest - Datathon by Indian Territorial Army & CyberPeace
 - 🏆 AI Track Winner, Sustainathon by Hyperverge
 - 🏆 All India Rank 17, DD ROBOCON 2024 by IIT Delhi & PrasarBharti
 - 🏆 Finalist, Wise-ai-thon by Wise Work
