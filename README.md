@@ -19,7 +19,7 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 ## Work Experience
 - **SDE Intern | Hyperverge | Coimbatore**
   - 06/2025 - present
-- **AI/ML Intern | iQube | Coimbatore**
+- **AI/ML Trainee | iQube | Coimbatore**
   - 11/2022 - Present
   - Leading industrial projects by applying machine learning techniques, while mentoring peers in AI & ML Domain.
 - **Graduate Innovation Trainee | Forge | Coimbatore**
