@@ -14,10 +14,10 @@
 
 ## Summary
 
-Passionate ML Engineer with a strong foundation in AI and Data Science, currently pursuing a B.Tech in Artificial Intelligence and Data Science at Kumaraguru College of Technology. Excels in developing real-time industry projects and driving impactful results using comprehensive skills in Machine Learning, Deep Learning, NLP, Computer Vision, AI Agents, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Generative AI (GenAI).  
+Passionate ML Engineer with a strong foundation in AI and Data Science, currently pursuing a B.Tech in Artificial Intelligence and Data Science at Kumaraguru College of Technology. Excels in developing real-time industry projects and driving impactful results using comprehensive skills in Machine Learning, Deep Learning, NLP, Computer Vision, AI Agents, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), Diffusion Models and Generative AI (GenAI).
 
 ## Work Experience
-- **SDE Intern | Hyperverge | Coimbatore**
+- **Software Development Engineer Intern | Hyperverge | Coimbatore**
   - 06/2025 - present
 - **AI/ML Trainee | iQube | Coimbatore**
   - 11/2022 - Present
@@ -96,11 +96,18 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 
 ## Personal Projects
 
-- **Defective Roller Detector**
+- **DEFECTIVE ROLLER DETECTOR**
   - Utilizing computer vision and AI techniques for real-time detection of defective rollers in industrial manufacturing, improving quality control and reducing downtime.
 
-- **Deepfake.ai**
-  - Developing an advanced multimedia deepfake detection platform using AI models, enabling accurate detection of manipulated content in images, videos, and audio.
+- **SYNTHETIC ID CARDS GENERATOR FOR FORGERY DETECTION**
+  - Designed a system to Generate realistic synthetic ID images using diffusion models with Flux LoRA fine-tuning and
+    Blender-based rendering to simulate visual obstructions.
+
+-  **AI ASSISTANT FOR INVENTORY MANAGEMENT**
+  -  Implemented a conversational AI system powered by a RAG-based LLM, incorporating document retrieval and semantic search to enable real-time inventory query resolution.
+
+- **GERMAN TO ENGLISH LANGUAGE TRANSLATOR**
+  - Built and deployed a scalable German-to-English neural machine translation pipeline using seq2seq model, optimized with ONNX Runtime and served via Triton Inference Server for low-         latency production inference.
 
 ## Professional Certifications
 - IBM AI Engineering Professional Certificate
