@@ -98,14 +98,11 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 
 - **DEFECTIVE ROLLER DETECTOR**
   - Utilizing computer vision and AI techniques for real-time detection of defective rollers in industrial manufacturing, improving quality control and reducing downtime.
-
 - **SYNTHETIC ID CARDS GENERATOR FOR FORGERY DETECTION**
   - Designed a system to Generate realistic synthetic ID images using diffusion models with Flux LoRA fine-tuning and
     Blender-based rendering to simulate visual obstructions.
-
--  **AI ASSISTANT FOR INVENTORY MANAGEMENT**
+- **AI ASSISTANT FOR INVENTORY MANAGEMENT**
   -  Implemented a conversational AI system powered by a RAG-based LLM, incorporating document retrieval and semantic search to enable real-time inventory query resolution.
-
 - **GERMAN TO ENGLISH LANGUAGE TRANSLATOR**
   - Built and deployed a scalable German-to-English neural machine translation pipeline using seq2seq model, optimized with ONNX Runtime and served via Triton Inference Server for low-         latency production inference.
 
