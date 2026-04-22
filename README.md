@@ -28,10 +28,7 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 - **Graduate Innovation Trainee | Forge | Coimbatore**
   - 01/2025 - 07/2025
   - Developing an AI-powered voice assistant using NLP, LLMs, RAG for inventory management system.
-- **AI Developer | KCT Team QBotix | Coimbatore**
-  - 01/2024 - 07/2024
-  - Developed computer vision solutions for autonomous navigation in the DD ROBOCON 2024 National Robotics Competition.
-- **AI Virtual Intern | IBM Skills Build**
+- **Machine Learning Engineer Intern | IBM Skills Build**
   - 06/2023 - 07/2023
   - Developed AI methodologies for a mental fitness tracker, including data analysis and model development.
 
@@ -111,23 +108,16 @@ Passionate ML Engineer with a strong foundation in AI and Data Science, currentl
 
 ## Professional Certifications
 - IBM AI Engineering Professional Certificate
+- IBM Data Engineering Professional Certificate
+- IBM RAG & Agentic AI Professional Certificate
 - TensorFlow Developer Professional Certificate by Deeplearning.ai
 - Generative Adversarial Networks by Deeplearning.ai
-- Datascience with Python
 
 ## Education
 
 - **B.Tech Artificial Intelligence and Data Science**
   - Kumaraguru College of Technology | Coimbatore
-  - 12/2022 - Present
-
-- **Higher Secondary School**
-  - Seventh Day Adventist School | Hosur
-  - 06/2020 - 05/2022
-
-- **SSLC**
-  - Seventh Day Adventist School | Hosur
-  - 06/2018 - 05/2020
+  - 12/2022 - 04/2026
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvishwa06/jvishwa06/output/github-snake-dark.svg" />
