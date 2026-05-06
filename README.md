@@ -17,7 +17,7 @@
 
 ## Summary
 
-Passionate ML Engineer with a strong foundation in AI and Data Science, currently pursuing a B.Tech in Artificial Intelligence and Data Science at Kumaraguru College of Technology. Excels in developing real-time industry projects and driving impactful results using comprehensive skills in Machine Learning, Deep Learning, NLP, Computer Vision, AI Agents, Retrieval-Augmented Generation, Large Language Models, Diffusion Models and Generative AI.
+Passionate Machine Learning Engineer with a strong foundation in AI and Data Science, holding a B.Tech in Artificial Intelligence and Data Science from Kumaraguru College of Technology. Experienced in building real-time industry projects and delivering impactful solutions using Machine Learning, Deep Learning, NLP, Computer Vision, AI Agents, Retrieval-Augmented Generation (RAG), Large Language Models, Diffusion Models, and Generative AI.
 
 ## Work Experience
 - **Software Development Engineer Intern | Hyperverge | Coimbatore**
