@@ -24,11 +24,11 @@ Passionate Machine Learning Engineer with a strong foundation in AI and Data Sci
   - 06/2025 - present
   - Developed and released production features across internal services including Generic Forgery Check and Name Match, improving reliability and extensibility of identity verification workflows.
   - Engineered a Slack bot for support engineering query tracking used by 300+ members, streamlining incident triage and improving SLA compliance for issue resolution.
-- **AI/ML Trainee | iQube | Coimbatore**
+- **AI/ML Trainee | iQube - Innovation Center | Coimbatore**
   - 11/2022 - present
   - Led industrial AI projects applying machine learning techniques to real-world business use cases, collaborating with cross-functional teams to design and implement practical solutions.
   - Mentored peers in AI and machine learning through technical sessions and organized internal competitions and hackathons to promote collaborative innovation.
-- **Graduate Innovation Trainee | Forge | Coimbatore**
+- **Graduate Innovation Trainee | Forge Innovation & Ventures | Coimbatore**
   - 01/2025 - 07/2025
   -  Developed an AI-powered voice assistant for an inventory management system by implementing and optimizing speech recognition, text-to-speech, and retrieval-augmented generation pipelines for real-time, low       latency interaction on resource constrained devices like raspberry pi.
 - **Machine Learning Engineer Intern | IBM Skills Build**
