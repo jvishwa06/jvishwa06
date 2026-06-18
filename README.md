@@ -122,6 +122,7 @@ Passionate Machine Learning Engineer with a strong foundation in AI and Data Sci
 - **B.Tech Artificial Intelligence and Data Science**
   - Kumaraguru College of Technology | Coimbatore
   - 12/2022 - 04/2026
+  - CGPA - 8.5/10
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvishwa06/jvishwa06/output/github-snake-dark.svg" />
