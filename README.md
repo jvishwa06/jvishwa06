@@ -25,12 +25,12 @@ Passionate Machine Learning Engineer with a strong foundation in AI and Data Sci
   - Developed and released production features across internal services including Generic Forgery Check and Name Match, improving reliability and extensibility of identity verification workflows.
   - Engineered a Slack bot for support engineering query tracking used by 300+ members, streamlining incident triage and improving SLA compliance for issue resolution.
 - **AI/ML Trainee | iQube - Innovation Center | Coimbatore**
-  - 11/2022 - present
+  - 01/2023 - 05/2025
   - Led industrial AI projects applying machine learning techniques to real-world business use cases, collaborating with cross-functional teams to design and implement practical solutions.
   - Mentored peers in AI and machine learning through technical sessions and organized internal competitions and hackathons to promote collaborative innovation.
 - **Graduate Innovation Trainee | Forge Innovation & Ventures | Coimbatore**
   - 01/2025 - 07/2025
-  -  Developed an AI-powered voice assistant for an inventory management system by implementing and optimizing speech recognition, text-to-speech, and retrieval-augmented generation pipelines for real-time, low       latency interaction on resource constrained devices like raspberry pi.
+  -  Developed an AI-powered voice assistant for an inventory management system by implementing and optimizing speech recognition, text-to-speech, and retrieval-augmented generation pipelines for real-time, low-latency interaction on resource-constrained devices like Raspberry Pi.
 - **Machine Learning Engineer Intern | IBM Skills Build**
   - 06/2023 - 07/2023
   - Developed AI methodologies for a mental fitness tracker, including data analysis and model development.
@@ -38,8 +38,8 @@ Passionate Machine Learning Engineer with a strong foundation in AI and Data Sci
 ## Achievements
 - 🏆 All India Rank 3, National Terrier Cyber Quest - Datathon by Indian Territorial Army & CyberPeace
 - 🏆 AI Track Winner, Sustainathon by Hyperverge
-- 🏆 All India Rank 17, DD ROBOCON 2024 by IIT Delhi & PrasarBharti
-- 🏆 Best All Rounder Student Award by Kumaraguru College of Technology
+- 🏆 All India Rank 17, DD ROBOCON 2024 by IIT Delhi & Prasar Bharti
+- 🏆 Best All-Rounder Student Award by Kumaraguru College of Technology
 - 🏆 SN Bose Award by Kumaraguru College of Technology
 - 🏆 2x Certificates of Recognition from Kumaraguru College of Technology
 - 🏆 Finalist, Wise-ai-thon by Wise Work
@@ -103,12 +103,12 @@ Passionate Machine Learning Engineer with a strong foundation in AI and Data Sci
 - **DEFECTIVE ROLLER DETECTOR**
   - Utilizing computer vision and AI techniques for real-time detection of defective rollers in industrial manufacturing, improving quality control and reducing downtime.
 - **SYNTHETIC ID CARDS GENERATOR FOR FORGERY DETECTION**
-  - Designed a system to Generate realistic synthetic ID images using diffusion models with Flux LoRA fine-tuning and
+  - Designed a system to generate realistic synthetic ID images using diffusion models with Flux LoRA fine-tuning and
     Blender-based rendering to simulate visual obstructions.
 - **AI ASSISTANT FOR INVENTORY MANAGEMENT**
   -  Implemented a conversational AI system powered by a RAG-based LLM, incorporating document retrieval and semantic search to enable real-time inventory query resolution.
 - **GERMAN TO ENGLISH LANGUAGE TRANSLATOR**
-  - Built and deployed a scalable German-to-English neural machine translation pipeline using seq2seq model, optimized with ONNX Runtime and served via Triton Inference Server for low-         latency production inference.
+  - Built and deployed a scalable German-to-English neural machine translation pipeline using a seq2seq model, optimized with ONNX Runtime and served via Triton Inference Server for low-latency production inference.
 
 ## Professional Certifications
 - IBM AI Engineering Professional Certificate
