@@ -21,7 +21,7 @@ Passionate Machine Learning Engineer with a strong foundation in AI and Data Sci
 
 ## Work Experience
 - **Software Development Engineer Intern | Hyperverge | Coimbatore**
-  - 06/2025 - present
+  - 06/2025 - 06/2026
   - Developed and released production features across internal services including Generic Forgery Check and Name Match, improving reliability and extensibility of identity verification workflows.
   - Engineered a Slack bot for support engineering query tracking used by 300+ members, streamlining incident triage and improving SLA compliance for issue resolution.
 - **AI/ML Trainee | iQube - Innovation Center | Coimbatore**
