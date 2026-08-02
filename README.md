@@ -1,4 +1,4 @@
-# Vishwa J | ML Engineer | Open to Opportunities
+# Vishwa J | AI Engineer
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jvishwa06" target="_blank">
