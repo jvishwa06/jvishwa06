@@ -127,7 +127,7 @@ Passionate AI Engineer with a strong foundation in AI and Data Science, holding 
   - CGPA - 8.5/10
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvishwa06/jvishwa06/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvishwa06/jvishwa06/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/jvishwa06/jvishwa06/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvishwa06/jvishwa06/main/snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvishwa06/jvishwa06/main/snake/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jvishwa06/jvishwa06/main/snake/github-snake.svg" />
 </picture>
