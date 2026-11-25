@@ -20,6 +20,8 @@
 Passionate AI Engineer with a strong foundation in AI and Data Science, holding a B.Tech in Artificial Intelligence and Data Science from Kumaraguru College of Technology. Experienced in building real-time industry projects and delivering impactful solutions using Machine Learning, Deep Learning, NLP, Computer Vision, AI Agents, Retrieval-Augmented Generation (RAG), Large Language Models, Diffusion Models, and Generative AI.
 
 ## Work Experience
+- **AI Engineer | Square Yards | Mumbai**
+  - 07/2026 - Present
 - **Software Development Engineer Intern | Hyperverge | Coimbatore**
   - 06/2025 - 06/2026
   - Developed and released production features across internal services including Generic Forgery Check and Name Match, improving reliability and extensibility of identity verification workflows.
