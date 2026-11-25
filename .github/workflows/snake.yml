@@ -9,7 +9,7 @@ on:
   # Trigger the workflow on pushes to the main branch
   push:
     branches:
-      - Artificial-Intelligence-and-Data-Science
+      - main
 jobs:
   generate:
     runs-on: ubuntu-latest
